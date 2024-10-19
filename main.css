@@ -1,0 +1,47 @@
+/*background for the resume*/
+body{
+    font-family:  'Times New Roman', sanserif;
+    background-color: lightsteelblue;
+}
+
+/*H2 headers have same color*/
+#eagle-view {
+    font-family: Arial, sans-serif;
+    border: 2px white;
+    padding: 12px;
+    margin-bottom: 12px;
+
+}
+
+#antioch {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    border: 2px red;
+    padding: 12px;
+    margin-bottom: 12px;
+
+}
+
+#una {
+        font-family: Arial, sans-serif;
+        border: 2px white;
+        padding: 12px;
+        margin-bottom: 12px;
+
+}
+
+#lavergne-middle-school {
+    font-family: Arial, sans-serif;
+    border: 2px white;
+    padding: 12px;
+    margin-bottom: 12px;
+
+}
+
+#epik {
+    font-family: Arial, sans-serif;
+    border: 2px white;
+    padding: 12px;
+    margin-bottom: 12px;
+
+}
+
